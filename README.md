@@ -115,7 +115,7 @@ src/
 
 ## License
 
-© 2024 Digital8. All rights reserved.
+© 2026 Digital8. All rights reserved.
 
 ---
 
